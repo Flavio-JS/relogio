@@ -335,6 +335,10 @@ a:hover i::after {
 }
 
 @media (max-height: 600px) {
+  .clock-container {
+    padding: 0px;
+  }
+
   .clock {
     transition: 0.5s;
     border: 0px solid transparent;

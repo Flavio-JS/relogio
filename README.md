@@ -9,3 +9,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 HTML
 CSS
 JS
+
+ideia do design do botão de "Light" e "Dark" do canal : https://www.youtube.com/c/OnlineTutorials4Designers 

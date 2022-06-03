@@ -114,3 +114,5 @@ function changeBorderColor() {
 
 setInterval(getHour, 1000);
 setInterval(getHourDigital, 1000);
+
+//teste
